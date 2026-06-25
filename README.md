@@ -1,12 +1,12 @@
 <!-- ====================== HEADER BANNER ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a00,100:ff3d00&height=200&section=header&text=Sanjeev%20Kumar%20Ray&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=%E0%A5%A5%20%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%83%20%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%AD%E0%A4%83%20%E0%A5%A5&descSize=16&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a00,100:ff3d00&height=210&section=header&text=Sanjeev%20Kumar%20Ray&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Frontend%20%E2%80%A2%20React%20Native%20Developer&descSize=18&descAlignY=56" alt="header" />
 </p>
 
 <!-- ====================== TYPING SUBTITLE ====================== -->
 <p align="center">
   <a href="https://github.com/raysanjeev19">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF7A00&center=true&vCenter=true&width=620&lines=Full-Stack+%26+Frontend+Developer;Building+modern+web+%26+mobile+apps;React+%7C+Firebase+%7C+Node.js+%7C+TypeScript;Tech-driven+mind%2C+devotion-driven+soul" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=FF7A00&center=true&vCenter=true&width=640&lines=Frontend+Developer+%F0%9F%92%BB;React+Native+Developer+%F0%9F%93%B1;Building+beautiful+web+%26+mobile+apps;Tech-driven+mind%2C+devotion-driven+soul" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raysanjeev19&label=Profile%20Views&color=ff7a00&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/raysanjeev19?tab=followers"><img src="https://img.shields.io/github/followers/raysanjeev19?label=Followers&style=for-the-badge&color=ff7a00&logo=github&logoColor=white" alt="followers" /></a>
-  <img src="https://img.shields.io/badge/Engineer-%F0%9F%8E%93-ff7a00?style=for-the-badge" alt="engineer" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native" />
   <img src="https://img.shields.io/badge/Kolkata-India-ff3d00?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
 </p>
 
@@ -28,11 +28,12 @@
 
 ```yaml
 name:        Sanjeev Kumar Ray
-role:        Full-Stack & Frontend Developer
+role:        Frontend & React Native Developer
 location:    Kolkata, India 🇮🇳
-focus:       building fast, modern web & mobile apps
-currently:   "Monk Fit — AI-powered fitness app (React • Firebase • Vercel)"
-stack:       [React, JavaScript, TypeScript, Node.js, Firebase, Tailwind]
+focus:       crafting beautiful, fast web & mobile apps
+currently:   "Monk Fit — AI-powered fitness app (React • React Native • Firebase)"
+web:         [React, Next.js, JavaScript, TypeScript, Tailwind]
+mobile:      [React Native, Expo, Android]
 philosophy:  "Tech-driven mind, devotion-driven soul"
 motto:       "॥ अंतः अस्ति प्रारंभः ॥  (Within lies the beginning)"
 ```
@@ -45,8 +46,26 @@ motto:       "॥ अंतः अस्ति प्रारंभः ॥  (Wi
 <!-- ====================== TECH STACK ====================== -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
+<p align="center"><b>📱 Mobile</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="expo" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="capacitor" />
+</p>
+
+<p align="center"><b>💻 Web & Tools</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,firebase,tailwind,html,css,vite,vercel,git,github,figma&theme=dark&perline=7" alt="tech stack" />
+</p>
+
+<br/>
+
+<!-- ====================== TROPHIES ====================== -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raysanjeev19&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Commits,Repositories,Followers,MultiLanguage,Experience" alt="trophies" />
 </p>
 
 <br/>
@@ -98,6 +117,11 @@ motto:       "॥ अंतः अस्ति प्रारंभः ॥  (Wi
   <a href="https://sanjeevray-portfolio.vercel.app/portfolio"><img src="https://img.shields.io/badge/Portfolio-ff7a00?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
   <a href="mailto:raysanjeev19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://github.com/raysanjeev19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+</p>
+
+<!-- ====================== QUOTE ====================== -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 </p>
 
 <!-- ====================== FOOTER ====================== -->
