@@ -1,75 +1,108 @@
-<h1 align="center">Hi 👋, I'm Sanjeev Ray</h1>
-<h3 align="center">Full-Stack & Frontend Developer — building fast, modern web & mobile apps</h3>
-
+<!-- ====================== HEADER BANNER ====================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raysanjeev19&label=Profile%20views&color=ff7a00&style=flat" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a00,100:ff3d00&height=200&section=header&text=Sanjeev%20Kumar%20Ray&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=%E0%A5%A5%20%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%83%20%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%AD%E0%A4%83%20%E0%A5%A5&descSize=16&descAlignY=58" alt="header" />
 </p>
 
----
+<!-- ====================== TYPING SUBTITLE ====================== -->
+<p align="center">
+  <a href="https://github.com/raysanjeev19">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF7A00&center=true&vCenter=true&width=620&lines=Full-Stack+%26+Frontend+Developer;Building+modern+web+%26+mobile+apps;React+%7C+Firebase+%7C+Node.js+%7C+TypeScript;Tech-driven+mind%2C+devotion-driven+soul" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ====================== BADGES ROW ====================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raysanjeev19&label=Profile%20Views&color=ff7a00&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/raysanjeev19?tab=followers"><img src="https://img.shields.io/github/followers/raysanjeev19?label=Followers&style=for-the-badge&color=ff7a00&logo=github&logoColor=white" alt="followers" /></a>
+  <img src="https://img.shields.io/badge/Engineer-%F0%9F%8E%93-ff7a00?style=for-the-badge" alt="engineer" />
+  <img src="https://img.shields.io/badge/Kolkata-India-ff3d00?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
+</p>
+
+<br/>
+
+<!-- ====================== ABOUT ====================== -->
+<table align="center">
+<tr><td>
 
 ### 🧘 About Me
 
-- 🔭 Currently building **[Monk Fit](https://github.com/raysanjeev19/monk-fit)** — an AI-powered fitness app (React + Firebase + Vercel)
-- 💻 I work across the stack: **React, JavaScript/TypeScript, Node.js, Firebase, Tailwind CSS**
-- 🌐 I ship real products — web apps, e-commerce sites, dashboards & mobile (Capacitor/Android)
-- 🌱 Always learning new tools and sharpening my craft
-- 📫 Reach me at **raysanjeev19@gmail.com**
+```yaml
+name:        Sanjeev Kumar Ray
+role:        Full-Stack & Frontend Developer
+location:    Kolkata, India 🇮🇳
+focus:       building fast, modern web & mobile apps
+currently:   "Monk Fit — AI-powered fitness app (React • Firebase • Vercel)"
+stack:       [React, JavaScript, TypeScript, Node.js, Firebase, Tailwind]
+philosophy:  "Tech-driven mind, devotion-driven soul"
+motto:       "॥ अंतः अस्ति प्रारंभः ॥  (Within lies the beginning)"
+```
 
----
+</td></tr>
+</table>
 
-### 🛠️ Tech Stack
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
+<!-- ====================== TECH STACK ====================== -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raysanjeev19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raysanjeev19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,firebase,tailwind,html,css,vite,vercel,git,github,figma&theme=dark&perline=7" alt="tech stack" />
+</p>
+
+<br/>
+
+<!-- ====================== GITHUB STATS ====================== -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raysanjeev19&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=ff7a00&icon_color=ff7a00&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raysanjeev19&layout=compact&hide_border=true&langs_count=8&title_color=ff7a00&text_color=c9d1d9&bg_color=0d1117" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raysanjeev19&theme=tokyonight&hide_border=true" alt="github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raysanjeev19&hide_border=true&background=0d1117&stroke=ff7a00&ring=ff7a00&fire=ff3d00&currStreakLabel=ff7a00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 </p>
 
----
+<!-- ====================== CONTRIBUTION SNAKE 🐍 ====================== -->
+<h2 align="center">🐍 Contribution Graph</h2>
 
-### 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🧘 [**Monk Fit**](https://github.com/raysanjeev19/monk-fit) | AI-powered fitness app — React, Firebase, Vercel, Capacitor |
-| 💪 [**Gym Website**](https://github.com/raysanjeev19/Gym-Website-by-sanjeev) | Responsive gym landing site |
-| 🛒 [**HRU E-Commerce**](https://github.com/raysanjeev19/HRU-E-Commerce-Website) | E-commerce storefront |
-| ✈️ [**TravelXploria**](https://github.com/raysanjeev19/travelxploria-clone-main) | Travel booking UI clone |
-| 🌦️ [**Weather App**](https://github.com/raysanjeev19/weather-app) | Live weather with API integration |
-
----
-
-### 🌐 Connect
-
-<p align="left">
-  <a href="mailto:raysanjeev19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/raysanjeev19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Apne links yahan add karein:
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raysanjeev19/raysanjeev19/output/github-snake-dark.svg" alt="snake animation eating contributions" />
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/raysanjeev19">raysanjeev19</a></i></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raysanjeev19&bg_color=0d1117&color=ff7a00&line=ff7a00&point=ffffff&area=true&area_color=ff7a00&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
+</p>
+
+<br/>
+
+<!-- ====================== FEATURED PROJECTS ====================== -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/raysanjeev19/monk-fit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raysanjeev19&repo=monk-fit&hide_border=true&title_color=ff7a00&icon_color=ff7a00&text_color=c9d1d9&bg_color=0d1117" alt="monk-fit" /></a>
+  <a href="https://github.com/raysanjeev19/Gym-Website-by-sanjeev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raysanjeev19&repo=Gym-Website-by-sanjeev&hide_border=true&title_color=ff7a00&icon_color=ff7a00&text_color=c9d1d9&bg_color=0d1117" alt="gym-website" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/raysanjeev19/HRU-E-Commerce-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raysanjeev19&repo=HRU-E-Commerce-Website&hide_border=true&title_color=ff7a00&icon_color=ff7a00&text_color=c9d1d9&bg_color=0d1117" alt="hru-ecommerce" /></a>
+  <a href="https://github.com/raysanjeev19/travelxploria-clone-main"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raysanjeev19&repo=travelxploria-clone-main&hide_border=true&title_color=ff7a00&icon_color=ff7a00&text_color=c9d1d9&bg_color=0d1117" alt="travelxploria" /></a>
+</p>
+
+<br/>
+
+<!-- ====================== CONNECT ====================== -->
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjeev-ray-ab3833216"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://sanjeevray-portfolio.vercel.app/portfolio"><img src="https://img.shields.io/badge/Portfolio-ff7a00?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+  <a href="mailto:raysanjeev19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://github.com/raysanjeev19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+</p>
+
+<!-- ====================== FOOTER ====================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3d00,100:ff7a00&height=120&section=footer" alt="footer" />
+</p>
+
+<p align="center"><i>⭐️ Thanks for visiting — <a href="https://github.com/raysanjeev19">@raysanjeev19</a></i></p>
