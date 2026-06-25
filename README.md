@@ -61,15 +61,6 @@ motto:       "॥ अंतः अस्ति प्रारंभः ॥  (Wi
 
 <br/>
 
-<!-- ====================== TROPHIES ====================== -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raysanjeev19&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Commits,Repositories,Followers,MultiLanguage,Experience" alt="trophies" />
-</p>
-
-<br/>
-
 <!-- ====================== GITHUB STATS ====================== -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
