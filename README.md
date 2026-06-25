@@ -6,7 +6,7 @@
 <!-- ====================== TYPING SUBTITLE ====================== -->
 <p align="center">
   <a href="https://github.com/raysanjeev19">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=FF7A00&center=true&vCenter=true&width=640&lines=Frontend+Developer+%F0%9F%92%BB;React+Native+Developer+%F0%9F%93%B1;Building+beautiful+web+%26+mobile+apps;Tech-driven+mind%2C+devotion-driven+soul" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=FF7A00&center=true&vCenter=true&width=640&lines=Frontend+Developer;React+Native+Developer;Building+beautiful+web+%26+mobile+apps;Tech-driven+mind%2C+devotion-driven+soul" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,32 +21,29 @@
 <br/>
 
 <!-- ====================== ABOUT ====================== -->
-<table align="center">
-<tr><td>
+<h2 align="center">About Me</h2>
 
-### 🧘 About Me
+<div align="center">
 
-```yaml
-name:        Sanjeev Kumar Ray
-role:        Frontend & React Native Developer
-location:    Kolkata, India 🇮🇳
-focus:       crafting beautiful, fast web & mobile apps
-currently:   "Monk Fit — AI-powered fitness app (React • React Native • Firebase)"
-web:         [React, Next.js, JavaScript, TypeScript, Tailwind]
-mobile:      [React Native, Expo, Android]
-philosophy:  "Tech-driven mind, devotion-driven soul"
-motto:       "॥ अंतः अस्ति प्रारंभः ॥  (Within lies the beginning)"
-```
+Currently building **[Monk&nbsp;Fit](https://github.com/raysanjeev19/monk-fit)** — an AI-powered fitness app  
+**Frontend & React Native Developer** crafting beautiful, fast web & mobile apps  
+**Web** — React · Next.js · JavaScript · TypeScript · Tailwind  
+**Mobile** — React Native · Expo · Android · Capacitor  
+Based in **Kolkata, India**  
+*Tech-driven mind, devotion-driven soul*
 
-</td></tr>
-</table>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=FF7A00&center=true&vCenter=true&width=480&lines=%E0%A5%A5+%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%83+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%AD%E0%A4%83+%E0%A5%A5++Within+lies+the+beginning" alt="motto" />
+</p>
 
 <br/>
 
 <!-- ====================== TECH STACK ====================== -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
-<p align="center"><b>📱 Mobile</b></p>
+<p align="center"><b>Mobile</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="expo" />
@@ -54,7 +51,7 @@ motto:       "॥ अंतः अस्ति प्रारंभः ॥  (Wi
   <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="capacitor" />
 </p>
 
-<p align="center"><b>💻 Web & Tools</b></p>
+<p align="center"><b>Web &amp; Tools</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,firebase,tailwind,html,css,vite,vercel,git,github,figma&theme=dark&perline=7" alt="tech stack" />
 </p>
@@ -62,19 +59,19 @@ motto:       "॥ अंतः अस्ति प्रारंभः ॥  (Wi
 <br/>
 
 <!-- ====================== GITHUB STATS ====================== -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raysanjeev19&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=ff7a00&icon_color=ff7a00&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raysanjeev19&layout=compact&hide_border=true&langs_count=8&title_color=ff7a00&text_color=c9d1d9&bg_color=0d1117" alt="top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raysanjeev19&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=ff7a00&icon_color=ff7a00&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raysanjeev19&hide_border=true&background=0d1117&stroke=ff7a00&ring=ff7a00&fire=ff3d00&currStreakLabel=ff7a00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raysanjeev19&hide_border=true&background=0d1117&stroke=ff7a00&ring=ff7a00&fire=ff3d00&currStreakLabel=ff7a00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raysanjeev19&layout=donut&hide_border=true&langs_count=10&title_color=ff7a00&text_color=c9d1d9&bg_color=0d1117" alt="top languages" />
 </p>
 
 <!-- ====================== CONTRIBUTION SNAKE 🐍 ====================== -->
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2 align="center">Contribution Graph</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/raysanjeev19/raysanjeev19/output/github-snake-dark.svg" alt="snake animation eating contributions" />
@@ -87,7 +84,7 @@ motto:       "॥ अंतः अस्ति प्रारंभः ॥  (Wi
 <br/>
 
 <!-- ====================== FEATURED PROJECTS ====================== -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/raysanjeev19/monk-fit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raysanjeev19&repo=monk-fit&hide_border=true&title_color=ff7a00&icon_color=ff7a00&text_color=c9d1d9&bg_color=0d1117" alt="monk-fit" /></a>
@@ -101,7 +98,7 @@ motto:       "॥ अंतः अस्ति प्रारंभः ॥  (Wi
 <br/>
 
 <!-- ====================== CONNECT ====================== -->
-<h2 align="center">🌐 Let's Connect</h2>
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjeev-ray-ab3833216"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
@@ -110,14 +107,9 @@ motto:       "॥ अंतः अस्ति प्रारंभः ॥  (Wi
   <a href="https://github.com/raysanjeev19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
-<!-- ====================== QUOTE ====================== -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</p>
-
 <!-- ====================== FOOTER ====================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3d00,100:ff7a00&height=120&section=footer" alt="footer" />
 </p>
 
-<p align="center"><i>⭐️ Thanks for visiting — <a href="https://github.com/raysanjeev19">@raysanjeev19</a></i></p>
+<p align="center"><i>Thanks for visiting — <a href="https://github.com/raysanjeev19">@raysanjeev19</a></i></p>
