@@ -1,6 +1,6 @@
 <!-- ====================== HEADER BANNER ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a00,100:ff3d00&height=210&section=header&text=Sanjeev%20Kumar%20Ray&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Frontend%20%E2%80%A2%20React%20Native%20Developer&descSize=18&descAlignY=56" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a00,100:ff3d00&height=210&section=header&text=Sanjeev%20Kumar%20Ray&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Frontend%20Developer%20%7C%7C%20React%20Native%20Developer&descSize=18&descAlignY=56" alt="header" />
 </p>
 
 <!-- ====================== TYPING SUBTITLE ====================== -->
